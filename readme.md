@@ -9,7 +9,7 @@
 [להורדה](https://github.com/464david464/EE-EO-Ex-s/archive/refs/heads/main.zip)
 
 או לפתוח את הקוד כאן באתר ולהעתיק אותו אם רוצים
-ניתן להריץ את הקבצים הן בMATLAB והן ב- Octave
+ניתן להריץ את הקבצים הן ב- MATLAB והן ב- Octave
 
-להרצת קוד Octave Online
+להרצת קוד Octave אונליין
 https://onecompiler.com/octave
