@@ -14,12 +14,12 @@ Eg_Ge = 0.66;         % Band gap [eV]
 ni_Ge = 2.4e13;       % Intrinsic carrier concentration [cm^-3]
 
 % 2. Silicon
-Eg_Si = 1.12;         % Band gap [eV]
-ni_Si = 1.0e10;       % Intrinsic carrier concentration [cm^-3]
+Eg_Si = 1.11;         % Band gap [eV]
+ni_Si = 1.2e10;       % Intrinsic carrier concentration [cm^-3]
 
 % 3. GaAs
-Eg_GaAs = 1.42;       % Band gap [eV]
-ni_GaAs = 2.1e6;      % Intrinsic carrier concentration [cm^-3]
+Eg_GaAs = 1.52;       % Band gap [eV]
+ni_GaAs = 2.2e6;      % Intrinsic carrier concentration [cm^-3]
 
 % Calculation
 % From equation: Ec - Efi = kT * ln(Nd/ni)
